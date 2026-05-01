@@ -39,7 +39,12 @@ _______________________________________
 Secure credential handling via Firebase
 Authentication tokens managed internally
 Protection against unauthorized access
-Environment variables used for sensitive configurations
+Environment variables used for sensitive configurations.
+_____________________________________________________________
+🗄️ CLOUD FIREBASE DATABASE
+______________________________
+![image alt](https://github.com/Adarsh-Dwivedi311/Netflix-clone/blob/a5f173dafed07335d0ccacc327c7d8b71318420d/CLOUD%20DATABASE%20.jpg)
+
 
 
 
