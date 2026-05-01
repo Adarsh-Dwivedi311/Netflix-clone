@@ -102,6 +102,35 @@ _____________________________________
 
 ![img alt](https://github.com/Adarsh-Dwivedi311/Netflix-clone/blob/8b978cd25ae51b5acdb85b4dc5a139ef30cd6b1e/NEW%20TRAILER.jpeg)
 
+The application includes an integrated video player that allows users to watch movie trailers directly within the platform, enhancing user engagement and providing a complete streaming-like experience.
+__________________________________________________________________________________
+🔗 API Integration
+_____________________________________________________
+Trailer content dynamically fetched using TMDB API
+Integration with YouTube for reliable video streaming
+Automatic loading of trailers based on selected movie
+___________________________________________________________
+⚡ User Experience
+____________________________________________________________
+Instant trailer playback without page reload
+Clean and distraction-free viewing interface
+Optimized performance for fast loading
+Compatible across all screen sizes
+______________________________________________________________
+🔄 Functionality
+_______________________________________________________________
+Click on a movie card to open its trailer
+Dynamic routing to trailer page
+Real-time video rendering
+Efficient handling of video URLs and states
+__________________________________________________________________
+🛠️ Technologies Used
+_____________________________________________________________________
+React.js for UI rendering
+TMDB API for fetching trailer data
+YouTube Embed API for video playback
+CSS for styling and responsiveness
+
 
 
 
