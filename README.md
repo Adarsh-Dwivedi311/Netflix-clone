@@ -44,6 +44,30 @@ _____________________________________________________________
 🗄️ CLOUD FIREBASE DATABASE
 ______________________________
 ![image alt](https://github.com/Adarsh-Dwivedi311/Netflix-clone/blob/a5f173dafed07335d0ccacc327c7d8b71318420d/CLOUD%20DATABASE%20.jpg)
+_________________________________________________________________________________
+📁 Database Structure
+> Collection: user
+> Each document represents a unique authenticated user.
+> Stores essential user information for personalization
+_________________________________________________________________
+📌 Stored Fields
+uid: Unique identifier for each user (linked to Firebase Auth)
+name: User’s display name
+email: Registered email address
+authProvider: Authentication method (e.g., local).
+_______________________________________________________________
+🔒 Security & Reliability
+Secure access controlled via Firebase security rules
+Data isolation per user using unique document IDs
+Cloud-hosted infrastructure ensures high availability
+Scalable NoSQL architecture for handling large datasets
+_________________________________________________________________
+🏠 Home Page - NETFLIX-CLONE - FULL STACK DEVELOPER - BY
+{ADARSH-CODER}
+_________________________________________________________________
+
+![img alt](https://github.com/Adarsh-Dwivedi311/Netflix-clone/blob/b0a9e065693fe3d975f458579769278cd76ca221/HOMEPAGE.jpeg)
+
 
 
 
