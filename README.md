@@ -33,6 +33,12 @@ Controlled components using React state management
 Smooth user feedback with instant validation responses
 ___________________________________________________________________
 ![image alt](https://github.com/Adarsh-Dwivedi311/Netflix-clone/blob/c8b6e10b3562226102ef90a68efc71c8fbe1da5e/firebase.jpg)
+_______________________________________________________________________
+🔒 Security Considerations
+Secure credential handling via Firebase
+Authentication tokens managed internally
+Protection against unauthorized access
+Environment variables used for sensitive configurations
 
 
 
