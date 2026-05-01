@@ -96,6 +96,13 @@ OTT + BLOCKBUSTER MOVIES RECOMMENDATION - HOLLYWOOD_ THRILLER
 __________________________________________________________________________
 ![img alt](https://github.com/Adarsh-Dwivedi311/Netflix-clone/blob/94a81b7233d36271b3cfd852107a46f5ad207414/NEW%20MOVIES.jpeg)
 
+___________________________________________________________________________
+▶️ Trailer / Video Player
+_____________________________________
+
+![img alt](https://github.com/Adarsh-Dwivedi311/Netflix-clone/blob/8b978cd25ae51b5acdb85b4dc5a139ef30cd6b1e/NEW%20TRAILER.jpeg)
+
+
 
 
 # React + Vite
