@@ -6,9 +6,10 @@ ________________________________________________________________________________
 ________________________________
 Firebase is used for authentication and hosting, enabling secure user login, session management, and fast deployment of the application.
 ________________________________________________________________________________________________________________________________________
-🏠 Home Page
+🔐 Login Page
 
 ![image alt](https://github.com/Adarsh-Dwivedi311/Netflix-clone/blob/97788bbd053de8fd48395e7112e09bc7053be978/LOGIN-PAGE.jpeg)
+
 
 
 # React + Vite
