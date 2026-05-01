@@ -91,10 +91,9 @@ Real-time movie data fetched using TMDB API
 Automatic content updates without manual refresh
 Multiple categories for better content discovery
 Optimized image loading for performance
-___________________________________________________________________________
-
-
-
+_________________________________________________________________________
+OTT + BLOCKBUSTER MOVIES RECOMMENDATION - HOLLYWOOD_ THRILLER
+![img alt](https://github.com/Adarsh-Dwivedi311/Netflix-clone/blob/94a81b7233d36271b3cfd852107a46f5ad207414/NEW%20MOVIES.jpeg)
 
 
 
