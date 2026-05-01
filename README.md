@@ -130,6 +130,16 @@ React.js for UI rendering
 TMDB API for fetching trailer data
 YouTube Embed API for video playback
 CSS for styling and responsiveness
+________________________________________________________________________
+🚀 Deployment (Firebase Hosting)
+_________________________________________________________________________
+
+---- SUCESSFULLY  DEPLOYED USING  FIREBASE  HOSTING ------------------------------
+___________________________________________________________________________________
+
+![img alt](https://github.com/Adarsh-Dwivedi311/Netflix-clone/blob/126755a934e3d6531a9528414eb5729628c40f62/DEPLOYMENT%20IN%20FIREBASE.jpg)
+
+
 
 
 
